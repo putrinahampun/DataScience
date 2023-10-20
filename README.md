@@ -21,5 +21,6 @@ are related to the termination of an employee's employment.
 3. Create data visualization according to EDA Steps. Give an insight from this step.
 4. Perform Machine Learning modeling to predict employee termination.
 5. Answer questions:
+
    a. Is there any relationship between who a person works for (their manager) and their performance score?
    b. What are our best recruiting sources if we want to ensure a low ratio of termination?
